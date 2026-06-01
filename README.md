@@ -1,4 +1,4 @@
-# tournament_boosters_calculator
+# Boosters Calculator
 Uma ferramenta para calcular a distribuição de boosters (premiação) em torneios de card games, garantindo uma divisão que se adapta a diferentes categorias e quantidades de jogadores.
 
 ## Tipos de Calculadoras
